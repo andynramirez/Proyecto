@@ -1,0 +1,44 @@
+div#header{
+    
+    width:100%;
+    height:100px;
+    background-color:burlywood;
+}
+
+div#body{
+    margin:auto;
+    margin-top:2px;
+    width:100%;
+    height:600px;
+    background-color:rgb(216, 44, 44);
+}
+
+
+div#footer{
+    margin-top:2px;
+    width:100%;
+    height:100px;
+    background-color:rgb(241, 236, 236);
+}
+header{
+    background-color:burlywood;
+    text-align:center;
+}
+#contenido{
+    text-align: center;
+    padding-right:50px;
+}
+
+
+
+
+
+
+
+footer{
+    text-align:center;
+    background-color: black;
+    color:white;
+}
+
+/*Contacto*/
